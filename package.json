@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "A web server using the Express.js framework and add it to a front-end application that the local zoo is developing, called Zoo Keepr",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tai106/zookeepr.git"
+  },
+  "author": "Taivon Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tai106/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Tai106/zookeepr#readme"
+}
